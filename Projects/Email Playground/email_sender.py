@@ -3,7 +3,7 @@ from email.message import EmailMessage
 
 email = EmailMessage()
 email['from'] = 'Tbot'
-email['to'] = 'technokrish1780@gmail.com'
+email['to'] = 'brrrrrr@gmail.com'
 email['subject'] = 'Six mahine ruk ja meri body banane waali hai'
 
 email.set_content("I am python master boii!!")
